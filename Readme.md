@@ -45,7 +45,7 @@ sudo lxc-create -n lxc_mariadb -t download -- --dist debian --release buster --a
     sudo nano /etc/hosts
     ```
     
-    ![Untitled](UAS%20dc78858e6f9b4d43bdcb8537cd3a083c/Untitled%201.png)
+    ![Untitled](https://github.com/3milia123/UAS-SISTEM-TERDISTRIBUSI/blob/main/image/3.png)
     
 
 1. Membuat direktori baru dengan nama `tubes` di dalam direktori home pengguna `ansible`.
