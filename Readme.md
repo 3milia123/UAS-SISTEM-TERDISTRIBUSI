@@ -54,7 +54,7 @@ sudo lxc-create -n lxc_mariadb -t download -- --dist debian --release buster --a
     sudo mkdir -p ~ansible/tubes
     ```
     
-    ![Untitled](UAS%20dc78858e6f9b4d43bdcb8537cd3a083c/1892ee46-9bbc-4606-b9d0-d3f74a41ea1d.png)
+    ![Untitled](https://github.com/3milia123/UAS-SISTEM-TERDISTRIBUSI/blob/main/image/d94f02db-ebc1-4bda-908f-6c4a4864c5d6.png)
     
     - Membuat beberapa direktori baru yang diperlukan untuk mengorganisir proyek Laravel
     
@@ -149,10 +149,10 @@ sudo lxc-create -n lxc_mariadb -t download -- --dist debian --release buster --a
         state: present
     ```
     
-    ![Untitled](UAS%20dc78858e6f9b4d43bdcb8537cd3a083c/Untitled%202.png)
+    ![Untitled](https://github.com/3milia123/UAS-SISTEM-TERDISTRIBUSI/blob/main/image/Untitled%202.png)
     
 
-![Untitled](UAS%20dc78858e6f9b4d43bdcb8537cd3a083c/d94f02db-ebc1-4bda-908f-6c4a4864c5d6.png)
+![Untitled](https://github.com/3milia123/UAS-SISTEM-TERDISTRIBUSI/blob/main/image/d94f02db-ebc1-4bda-908f-6c4a4864c5d6.png)
 
 - Mengubah direktori kerja saat ini ke `handlers`, kemudian membuka editor teks Nano untuk mengedit atau membuat file `main.yml` dengan hak akses superuser, dan akhirnya kembali ke direktori sebelumnya.
 
