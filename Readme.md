@@ -36,7 +36,7 @@ sudo lxc-create -n lxc_mariadb -t download -- --dist debian --release buster --a
 
 1. Membuat kontainer-kontainer LXC tersebut,  perlu melakukan beberapa konfigurasi untuk mengatur IP statis dan menginstal server SSH di masing-masing kontainer
     
-    ![Untitled](UAS%20dc78858e6f9b4d43bdcb8537cd3a083c/8494d767-0f91-4f0b-aec4-f55003cbd5b6.png)
+    ![Untitled](https://github.com/3milia123/UAS-SISTEM-TERDISTRIBUSI/blob/main/image/2.png)
     
 
 1. Membuka file `/etc/hosts` dengan editor teks Nano dengan hak akses superuser. File ini digunakan untuk memetakan nama host ke alamat IP. 
