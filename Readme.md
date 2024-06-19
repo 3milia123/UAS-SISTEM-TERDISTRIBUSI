@@ -2,7 +2,7 @@
 
 SOAL 
 
-![Untitled](UAS%20dc78858e6f9b4d43bdcb8537cd3a083c/Untitled.png)
+![Untitled](https://github.com/3milia123/UAS-SISTEM-TERDISTRIBUSI/blob/main/image/1.png)
 
 1. Membuat enam kontainer LXC (Linux Containers) yang menjalankan Ubuntu 20.04 (Focal Fossa) dengan arsitektur amd64.
 
